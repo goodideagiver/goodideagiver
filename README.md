@@ -22,5 +22,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/prplblck"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prplblck" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=goodideagiver&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=FFFFFF&background=DDDDDD" alt="goodideagiver" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=goodideagiver&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=FFFFFF&background=FFFFFF" alt="goodideagiver" /></p>
 
