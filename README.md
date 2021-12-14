@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [purpleblack.dev](https://purpleblack.dev/)
 
-- 🌱 I’m currently learning **Frontend, Sass, JS, NODE.JS**
+- 🌱 I’m currently learning **HTML, CSS, Sass, JS, NODE.JS**
 
 - 👨‍💻 All of my projects are available at [https://purpleblack.dev/#websites](https://purpleblack.dev/#websites)
 
 - 📫 How to reach me **https://purpleblack.dev/#contact**
-
-- ⚡ Fun fact **I like**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
