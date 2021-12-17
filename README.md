@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodideagiver&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
 
-- 🔭 I’m currently working on [purpleblack.dev](https://purpleblack.dev/)
-
-- 🌱 I’m currently learning **HTML, CSS, Sass, JS, NODE.JS**
-
-- 👨‍💻 All of my projects are available at [https://purpleblack.dev/#websites](https://purpleblack.dev/#websites)
-
-- 📫 How to reach me **https://purpleblack.dev/#contact**
+👷‍♂️ I’m currently working on [purpleblack.dev](https://purpleblack.dev/)
+👨‍🎓 I’m currently learning **HTML, CSS, Sass, JS, NODE.JS**
+💻 All of my projects are available at [https://purpleblack.dev/#websites](https://purpleblack.dev/#websites)
+📧 How to reach me **https://purpleblack.dev/#contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
