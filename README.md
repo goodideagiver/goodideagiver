@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodideagiver&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
 
-👷‍♂️ I’m currently working on [purpleblack.dev](https://purpleblack.dev/)
+👷‍♂️ I’m currently working on [adot.pl](https://www.adot.pl/)
 
 👨‍🎓 I’m currently learning **HTML, CSS, Sass, JS, NODE.JS**
 
