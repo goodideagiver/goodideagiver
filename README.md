@@ -6,12 +6,11 @@
 👷‍♂️ I’m currently working on learning JS!
 
 👨‍🎓 Roadmap:
-- ~~HTML~~
-- ~~CSS~~
-- JS 👈
-- NODE.JS
-- REACT
-- TypeScript
+
+
+| ~~HTML~~ | ~~CSS~~ | ~**JS** 👈 | Node.js | React | TypeScript |
+|------|-----|----|---------|-------|------------|
+
 
 💻 All of my projects are available in [my portfolio](https://purpleblack.dev/#websites)
 
