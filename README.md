@@ -5,9 +5,15 @@
 
 👷‍♂️ I’m currently working on learning JS!
 
-👨‍🎓 I’m currently learning **HTML, CSS, Sass, JS, NODE.JS**
+👨‍🎓 Roadmap:
+- ~~HTML~~
+- ~~CSS~~
+- JS 👈
+- NODE.JS
+- REACT
+- TypeScript
 
-💻 All of my projects are available at [https://purpleblack.dev/#websites](https://purpleblack.dev/#websites)
+💻 All of my projects are available in [my portfolio](https://purpleblack.dev/#websites)
 
 📧 How to reach me **https://purpleblack.dev/#contact**
 
