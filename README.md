@@ -8,7 +8,7 @@
 👨‍🎓 Roadmap:
 
 
-| ~~HTML~~ | ~~CSS~~ | **JS** 👈 | React | TypeScript | Node.js |
+| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | **React** 👈 | TypeScript | Node.js |
 |------|-----|----|---------|-------|------------|
 
 
