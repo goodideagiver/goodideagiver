@@ -8,8 +8,7 @@
 👨‍🎓 Roadmap:
 
 
-| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | **React** 👈 | TypeScript | threejs | next.js
-|------|-----|----|---------|-------|------------|
+| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | **React** 👈 | TypeScript | threejs | next.js |
 
 
 💻 All of my projects are available in [my portfolio](https://purpleblack.dev/#websites)
