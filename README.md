@@ -11,9 +11,9 @@
 | ~~HTML~~ | ~~CSS~~ | ~~JS~~ | **React** 👈 | TypeScript | threejs | next.js |
 
 
-💻 All of my projects are available in [my portfolio](https://purpleblack.dev/#websites)
+💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
 
-📧 How to reach me **https://purpleblack.dev/#contact**
+📧 How to reach me **https://purpleblack.dev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
