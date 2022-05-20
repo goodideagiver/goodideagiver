@@ -13,7 +13,7 @@
 
 💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
 
-📧 How to reach me **https://purpleblack.dev/**
+📧 How to reach me [Click here](https://purpleblack.dev/contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
