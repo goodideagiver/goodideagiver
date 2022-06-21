@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karol AKA Purple Black</h1>
-<h3 align="center">A passionate frontend student from Poland</h3>
+<h2 align="center">A passionate frontend student from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodideagiver&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
 
-👷‍♂️ I’m currently working on learning React!
+👷‍♂️ I’m currently working on learning React + TS!
 
-👨‍🎓 Roadmap:
-
-
-| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | **React** 👈 | TypeScript | threejs | next.js |
-
+👨‍🎓 Roadmap: [here](https://purpleblack.dev/about)
 
 💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
 
