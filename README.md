@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Karol AKA Purple Black</h1>
-<h2 align="center">The guy with no life</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodideagiver&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
 
