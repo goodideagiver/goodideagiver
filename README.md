@@ -1,4 +1,4 @@
-# Hello, my name is Karol!
+# Hello!
 
 Currently I'm working on an **Open source** project: **[BEWEBDEV.TECH](https://bewebdev.tech/)**
 
