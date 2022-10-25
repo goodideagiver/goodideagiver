@@ -12,6 +12,12 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 📧 How to reach me [Click here](https://purpleblack.dev/contact)
 
+## Funfacts about me
+
+- I'm crazy addicted to perseverance
+- I learned to code to do less at my work
+- I respond very fast to all messages
+
 ## Some stats
 
 <span>
