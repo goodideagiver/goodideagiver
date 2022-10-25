@@ -18,6 +18,11 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 🐱‍👤 I respond very fast to messages
 
+## Tech I use
+
+![My Skills](https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,jest,css)
+
+
 ## Some stats
 
 <span>
