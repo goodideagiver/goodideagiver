@@ -16,7 +16,7 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 ⚙ I learned to code to do less at my work
 
- I respond very fast to messages
+🐱‍👤 I respond very fast to messages
 
 ## Some stats
 
