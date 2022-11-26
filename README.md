@@ -14,7 +14,7 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 ## Funfacts about me
 
-⚙ I learned to code to do less at my work
+⚙ I learned to code to do my work faster
 
 🐱‍👤 I respond very fast to messages
 
