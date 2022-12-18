@@ -6,7 +6,6 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 ## Important links
 
-👨‍🎓 Roadmap: [here](https://purpleblack.dev/about)
 
 💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
 
