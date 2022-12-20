@@ -1,4 +1,8 @@
-[![Hello I'm Karol - Frontend Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=true&vCenter=true&width=435&lines=Hello+I'm+Karol+-+Frontend+Developer)](https://git.io/typing-svg)
+<img alt="Hello I'm Karol" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Karol">
+
+
+
+![Frontend developer](https://user-images.githubusercontent.com/55458485/208723510-b0c353a0-b497-4dc5-8c90-4228def3f51d.png)
 
 Currently I'm working on an **Open source** project: **[BEWEBDEV.TECH](https://bewebdev.tech/)**
 
