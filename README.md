@@ -35,6 +35,4 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=goodideagiver&show_icons=true&locale=en&theme=transparent" alt="goodideagiver" />
 </span>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/prplblck"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prplblck" /></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodideagiver&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
