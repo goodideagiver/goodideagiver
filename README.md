@@ -23,10 +23,13 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 
 🐱‍👤 I respond very fast to messages
 
-## Tech I use
+## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,jest,css)
+![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,sass)
 
+## Want to learn 🧠
+
+![My Skills](https://skillicons.dev/icons?i=vim,rust,kubernetes,angular,docker,graphql,nodejs,deno)
 
 ## Some stats
 
