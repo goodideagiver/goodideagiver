@@ -41,3 +41,5 @@ We're looking for contributors! Check out the projects [repo](https://github.com
 </span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodideagiver&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
+
+![](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/18716142)
