@@ -6,28 +6,23 @@
 
 ## Most recent project
 
-Currently I'm working on an **Open source** project: **[BEWEBDEV.TECH](https://bewebdev.tech/)**
+Currently I'm working on an **Open source** project: **[BEWEBDEV](https://bewebdev.purpleblack.dev/)**
 
-We're looking for contributors! Check out the projects [repo](https://github.com/NowYouKnowProgramming/webdev-learning-materials)
+We're looking for contributors! Check out the projects [repo](https://github.com/goodideagiver/webdev-learning-materials-1)
 
 ## Important links
-
 
 💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
 
 📧 How to reach me [Click here](https://purpleblack.dev/contact)
 
-## Funfacts about me
-
-📢 Now i'm in the process of learning Node.js
-
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,sass)
+![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,sass,astro,tailwind,cypress,docker&perline=6)
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=vim,rust,kubernetes,angular,docker,graphql,nodejs,deno)
+![My Skills](https://skillicons.dev/icons?i=rust,kubernetes,angular,nodejs,webflow&perline=5)
 
 ## Some stats
 
