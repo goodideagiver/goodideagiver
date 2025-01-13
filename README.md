@@ -1,18 +1,6 @@
 <img alt="Hello I'm Karol" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Karol">
 
-
-
-![Frontend developer](https://user-images.githubusercontent.com/55458485/208723510-b0c353a0-b497-4dc5-8c90-4228def3f51d.png)
-
-## Most recent project
-
-Currently I'm working on an **Open source** project: **[BEWEBDEV](https://bewebdev.purpleblack.dev/)**
-
-We're looking for contributors! Check out the projects [repo](https://github.com/goodideagiver/webdev-learning-materials-1)
-
 ## Important links
-
-💻 All of my projects are available in [my portfolio](https://purpleblack.dev/)
 
 📧 How to reach me [Click here](https://purpleblack.dev/contact)
 
