@@ -6,11 +6,11 @@
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,sass,astro,tailwind,cypress,docker&perline=6)
+![My Skills](https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,jest,css,sass,astro,tailwind,cypress,docker,webflow&perline=7)
 
 ## Want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=rust,kubernetes,angular,nodejs,webflow&perline=5)
+![My Skills](https://skillicons.dev/icons?i=rust,kubernetes,angular,nodejs&perline=5)
 
 ## Some stats
 
