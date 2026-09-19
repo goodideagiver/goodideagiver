@@ -2,7 +2,7 @@
 
 ## Important links
 
-📧 How to reach me [Click here](https://purpleblack.dev/contact)
+📧 How to reach me [Click here](https://purpleblack.dev/)
 
 ## Stuff I know 🤓
 
